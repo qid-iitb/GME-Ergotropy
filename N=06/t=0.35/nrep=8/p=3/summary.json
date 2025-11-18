@@ -1,0 +1,17 @@
+{
+  "L": 6,
+  "g": 2.0,
+  "h": 1.0,
+  "t": 0.35,
+  "nrep": 8,
+  "party": [
+    0,
+    1,
+    2
+  ],
+  "E_passive": -1.7986044929470495,
+  "nit": 36,
+  "nfev": 2145,
+  "success": true,
+  "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+}

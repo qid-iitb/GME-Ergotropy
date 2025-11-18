@@ -1,0 +1,15 @@
+{
+  "L": 6,
+  "g": 2.0,
+  "h": 1.0,
+  "t": 0.35,
+  "nrep": 7,
+  "party": [
+    0
+  ],
+  "E_passive": -0.1512738629094931,
+  "nit": 6,
+  "nfev": 119,
+  "success": true,
+  "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL"
+}

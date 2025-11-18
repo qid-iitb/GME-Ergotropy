@@ -1,0 +1,19 @@
+{
+  "L": 6,
+  "g": 2.0,
+  "h": 1.0,
+  "t": 0.35,
+  "nrep": 7,
+  "party": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "E_passive": -4.05153931585517,
+  "nit": 184,
+  "nfev": 15066,
+  "success": false,
+  "message": "STOP: TOTAL NO. OF F,G EVALUATIONS EXCEEDS LIMIT"
+}
